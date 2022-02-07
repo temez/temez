@@ -28,6 +28,9 @@
 
 <br />
 <br />
+<br />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=temez&layout=compact)
 
 [twitter]: https://twitter.com/its_temez
 [instagram]: https://instagram.com/temezf
