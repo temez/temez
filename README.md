@@ -1,34 +1,21 @@
 ### Hi there, I'm Artem - aka temez 👋 
 
+Junior java developer
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=temez&label=Profile%20views&color=0e75b6&style=flat" alt="temez" /> </p>
 
-### Connect with me:
+### My sklls:
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+- Java
+- SQL
+- a bit js, PHP
 
-<br />
+#### Currently focused on minecraft plugin, server development
 
-### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="IntellijIde" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png" />
-<img align="left" alt="Java" width="26px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+### Contact with me:
+  
+Email: temezf@gmail.com<br/>
+Telegram: @temezf<br/>
+Discord: temez#7777
 
 
-<br />
-<br />
-<br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=temez&layout=compact)
-
-[twitter]: https://twitter.com/its_temez
-[instagram]: https://instagram.com/temezf
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
