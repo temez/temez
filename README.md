@@ -1,6 +1,6 @@
 ### Hi there, I'm Artem - aka temez 👋 
 
-Junior java developer
+Java developer
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=temez&label=Profile%20views&color=0e75b6&style=flat" alt="temez" /> </p>
 
 ### My sklls:
