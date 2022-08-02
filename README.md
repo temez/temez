@@ -6,8 +6,8 @@ Junior java developer
 ### My sklls:
 
 - Java
-- SQL
-- a bit js, PHP
+- PHP
+- a bit js, SQL
 
 #### Currently focused on minecraft plugin, server development
 
