@@ -9,8 +9,6 @@ Java developer
 - PHP
 - a bit js, SQL
 
-#### Currently focused on minecraft plugin, server development
-
 ### Contact with me:
   
 Email: temezf@gmail.com<br/>
