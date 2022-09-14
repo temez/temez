@@ -1,19 +1,19 @@
 ### Hi there, I'm Artem - aka temez 👋 
 
-Java developer
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=temez&label=Profile%20views&color=0e75b6&style=flat" alt="temez" /> </p>
 
 ### My sklls:
-
-- Java
-- PHP
-- a bit js, SQL
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,php,mysql,html,css,js" />
+  </a>
+</p>
 
 ### Contact with me:
   
 Email: temezf@gmail.com<br/>
 Telegram: @temezf<br/>
-Discord: temez#7777
+Discord: temez#6974
 
 
 
