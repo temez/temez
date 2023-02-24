@@ -5,7 +5,7 @@
 ### My sklls:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,php,mysql,html,css,js" />
+    <img src="https://skillicons.dev/icons?i=java,spring,php,mysql,html,css,js,react" />
   </a>
 </p>
 
