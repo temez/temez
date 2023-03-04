@@ -5,7 +5,14 @@
 ### My sklls:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,php,mysql,html,css,js,react" />
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,js,react" />
+  </a>
+</p>
+
+### Tools, I use:
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=idea,docker,postman" />
   </a>
 </p>
 
