@@ -5,7 +5,7 @@
 ### My sklls:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,html,css" />
+    <img src="https://skillicons.dev/icons?i=java,hibernate,spring,mysql,postgres" />
   </a>
 </p>
 
@@ -20,7 +20,7 @@
   
 Email: temezf@gmail.com<br/>
 Telegram: @temezf<br/>
-Discord: temez#6974
+Discord: its.temez
 
 
 
