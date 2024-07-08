@@ -21,7 +21,7 @@
 
 ### Contact with me:
   
-Email: temezf@gmail.com<br/>
+Email: temez@qubique.pw<br/>
 Telegram: @temezf<br/>
 Discord: its.temez
 
