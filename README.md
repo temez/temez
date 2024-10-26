@@ -8,14 +8,14 @@
 ### My sklls:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,typescript,spring,nestjs,mysql,postgres" />
+    <img src="https://skillicons.dev/icons?i=java,spring,kafka,nodejs,typescript,nestjs,angular,mysql,postgres,docker" />
   </a>
 </p>
 
 ### Tools, I use:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=idea,webstorm,docker,postman" />
+    <img src="https://skillicons.dev/icons?i=idea,webstorm,postman,gitlab,azure" />
   </a>
 </p>
 
